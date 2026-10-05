@@ -1,0 +1,5 @@
+SPDX-License-Identifier: GPL-2.0-only
+
+This repository contains build configuration and scripts for OpenWrt.
+OpenWrt and third-party packages retain their respective copyrights
+and licenses. See each upstream project for complete licensing terms.
